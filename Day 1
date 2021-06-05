@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Letter</title>
+</head>
+<body>
+    <h2>Letter to HOD</h2>
+    <div class="address">
+        Shubham ki Jhopdi,
+        <br>
+        HIG-845, DD Nagar.
+        <br>
+        470009-Jabalpur, M.P.
+    </div>
+    <div>
+        <br>
+        <strong>May 31st, 2021</strong>
+        <br>
+    </div>
+    <div>
+        <br>
+        Dr. S. K. Sharma,
+        <br>
+        HOD CSE Dept,
+        <br>
+        Jabalpur Engg. College,
+        <br>
+        470009-Jabalpur, M.P.
+        <br>
+    </div>
+    <div>
+        <br>
+        <strong>Subject-</strong> Permission for DevsNest Bootcamp Organization.
+        <br>
+    </div>
+    <div>
+        <br>
+        Respected Sir,
+        <br>
+        <p>
+            <em>DevsNest</em> is a thriving community of programming enthusiasts and they, alongwith the technical club of our college, are planning to organize a weeklong web development programming bootcamp in our college. It will a great opportunity for students to hone their programming skills.
+            <br>
+            Kindly grant us the permission to organize the same.
+        </p>
+        <br>
+        Thank You
+        <br><br>
+        Yours Sincerely
+        <br>
+        Shubham Singh Thakur
+        <br>
+        Abc123xyz
+    </div>
+
+</body>
+</html>
